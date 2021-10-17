@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hash">Hash:</string>
+    <string name="usd_value">USD value:</string>
+    <string name="date_time_in_ist">Date Time in IST:</string>
+    <string name="clear_all">Clear All</string>
+</resources>
